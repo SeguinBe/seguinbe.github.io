@@ -8,7 +8,7 @@ This is a test post...
 
 {% highlight python %}
 def print_hi(name):
-	print("Hi")
+    print("Hi")
 end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
