@@ -6,6 +6,8 @@ layout: post
 
 This is a test post...
 
+Trying coding
+
 {% highlight python %}
 def print_hi(name):
     print("Hi")
@@ -13,6 +15,8 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+Latex
 
 $$
 \begin{align*}
@@ -30,3 +34,7 @@ $$
     \end{array} \right)
 \end{align*}
 $$
+
+some pure html
+
+{% include cini_digitization.html %}
