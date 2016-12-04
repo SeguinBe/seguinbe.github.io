@@ -1,0 +1,769 @@
+{
+   "data": [
+      {
+         "key": "Skate Canada",
+         "values": [
+            {
+               "Starting Number": 8,
+               "Ranking": 1,
+               "Total Score": 183.41,
+               "Program Component Score": 88.12,
+               "Technical Element Score": 96.29,
+               "fullLabel": "Yuzuru HANYU",
+               "Base Value": 85.81,
+               "label": "HANYU",
+               "Total Grade of Execution": 10.48
+            },
+            {
+               "Starting Number": 11,
+               "Ranking": 2,
+               "Total Score": 176.39,
+               "Program Component Score": 91.12,
+               "Technical Element Score": 86.27,
+               "fullLabel": "Patrick CHAN",
+               "Base Value": 76.7,
+               "label": "CHAN",
+               "Total Grade of Execution": 9.57
+            },
+            {
+               "Starting Number": 10,
+               "Ranking": 3,
+               "Total Score": 164.49,
+               "Program Component Score": 78.42,
+               "Technical Element Score": 87.07,
+               "fullLabel": "Kevin REYNOLDS",
+               "Base Value": 86.23,
+               "label": "REYNOLDS",
+               "Total Grade of Execution": 0.84
+            },
+            {
+               "Starting Number": 5,
+               "Ranking": 4,
+               "Total Score": 157.06,
+               "Program Component Score": 80.62,
+               "Technical Element Score": 77.44,
+               "fullLabel": "Michal BREZINA",
+               "Base Value": 72.48,
+               "label": "BREZINA",
+               "Total Grade of Execution": 4.96
+            },
+            {
+               "Starting Number": 4,
+               "Ranking": 5,
+               "Total Score": 153.77,
+               "Program Component Score": 79.86,
+               "Technical Element Score": 73.91,
+               "fullLabel": "Misha GE",
+               "Base Value": 71.92,
+               "label": "GE",
+               "Total Grade of Execution": 1.99
+            },
+            {
+               "Starting Number": 6,
+               "Ranking": 6,
+               "Total Score": 152.89,
+               "Program Component Score": 75.38,
+               "Technical Element Score": 77.51,
+               "fullLabel": "Alexander PETROV",
+               "Base Value": 71.09,
+               "label": "PETROV",
+               "Total Grade of Execution": 6.42
+            },
+            {
+               "Starting Number": 9,
+               "Ranking": 7,
+               "Total Score": 151.91,
+               "Program Component Score": 76.98,
+               "Technical Element Score": 75.93,
+               "fullLabel": "Daniel SAMOHIN",
+               "Base Value": 83.51,
+               "label": "SAMOHIN",
+               "Total Grade of Execution": -7.58
+            },
+            {
+               "Starting Number": 3,
+               "Ranking": 8,
+               "Total Score": 144.49,
+               "Program Component Score": 76.92,
+               "Technical Element Score": 68.57,
+               "fullLabel": "Grant HOCHSTEIN",
+               "Base Value": 66.72,
+               "label": "HOCHSTEIN",
+               "Total Grade of Execution": 1.85
+            },
+            {
+               "Starting Number": 12,
+               "Ranking": 9,
+               "Total Score": 140.89,
+               "Program Component Score": 78.18,
+               "Technical Element Score": 62.71,
+               "fullLabel": "Takahito MURA",
+               "Base Value": 70.0,
+               "label": "MURA",
+               "Total Grade of Execution": -7.29
+            },
+            {
+               "Starting Number": 1,
+               "Ranking": 10,
+               "Total Score": 140.8,
+               "Program Component Score": 73.3,
+               "Technical Element Score": 68.5,
+               "fullLabel": "Liam FIRUS",
+               "Base Value": 72.82,
+               "label": "FIRUS",
+               "Total Grade of Execution": -4.32
+            },
+            {
+               "Starting Number": 7,
+               "Ranking": 11,
+               "Total Score": 136.25,
+               "Program Component Score": 74.64,
+               "Technical Element Score": 62.61,
+               "fullLabel": "Han YAN",
+               "Base Value": 68.42,
+               "label": "YAN",
+               "Total Grade of Execution": -5.81
+            },
+            {
+               "Starting Number": 2,
+               "Ranking": 12,
+               "Total Score": 132.61,
+               "Program Component Score": 74.14,
+               "Technical Element Score": 59.47,
+               "fullLabel": "Ross MINER",
+               "Base Value": 62.03,
+               "label": "MINER",
+               "Total Grade of Execution": -2.56
+            }
+         ]
+      },
+      {
+         "key": "Cup of China",
+         "values": [
+            {
+               "Starting Number": 9,
+               "Ranking": 1,
+               "Total Score": 196.31,
+               "Program Component Score": 93.0,
+               "Technical Element Score": 104.31,
+               "fullLabel": "Patrick CHAN",
+               "Base Value": 91.76,
+               "label": "CHAN",
+               "Total Grade of Execution": 12.55
+            },
+            {
+               "Starting Number": 8,
+               "Ranking": 2,
+               "Total Score": 182.37,
+               "Program Component Score": 78.8,
+               "Technical Element Score": 104.57,
+               "fullLabel": "Boyang JIN",
+               "Base Value": 100.17,
+               "label": "JIN",
+               "Total Grade of Execution": 4.4
+            },
+            {
+               "Starting Number": 6,
+               "Ranking": 3,
+               "Total Score": 161.07,
+               "Program Component Score": 76.28,
+               "Technical Element Score": 84.79,
+               "fullLabel": "Max AARON",
+               "Base Value": 81.33,
+               "label": "AARON",
+               "Total Grade of Execution": 3.46
+            },
+            {
+               "Starting Number": 7,
+               "Ranking": 4,
+               "Total Score": 160.83,
+               "Program Component Score": 78.94,
+               "Technical Element Score": 81.89,
+               "fullLabel": "Sergei VORONOV",
+               "Base Value": 71.98,
+               "label": "VORONOV",
+               "Total Grade of Execution": 9.91
+            },
+            {
+               "Starting Number": 4,
+               "Ranking": 5,
+               "Total Score": 155.15,
+               "Program Component Score": 78.72,
+               "Technical Element Score": 76.43,
+               "fullLabel": "Han YAN",
+               "Base Value": 69.35,
+               "label": "YAN",
+               "Total Grade of Execution": 7.08
+            },
+            {
+               "Starting Number": 2,
+               "Ranking": 6,
+               "Total Score": 154.23,
+               "Program Component Score": 74.38,
+               "Technical Element Score": 79.85,
+               "fullLabel": "Alexander PETROV",
+               "Base Value": 72.12,
+               "label": "PETROV",
+               "Total Grade of Execution": 7.73
+            },
+            {
+               "Starting Number": 1,
+               "Ranking": 7,
+               "Total Score": 151.33,
+               "Program Component Score": 75.0,
+               "Technical Element Score": 76.33,
+               "fullLabel": "Maxim KOVTUN",
+               "Base Value": 72.12,
+               "label": "KOVTUN",
+               "Total Grade of Execution": 4.21
+            },
+            {
+               "Starting Number": 5,
+               "Ranking": 8,
+               "Total Score": 136.61,
+               "Program Component Score": 74.86,
+               "Technical Element Score": 61.75,
+               "fullLabel": "Ross MINER",
+               "Base Value": 57.65,
+               "label": "MINER",
+               "Total Grade of Execution": 4.1
+            },
+            {
+               "Starting Number": 3,
+               "Ranking": 9,
+               "Total Score": 135.91,
+               "Program Component Score": 76.42,
+               "Technical Element Score": 60.49,
+               "fullLabel": "Michal BREZINA",
+               "Base Value": 52.29,
+               "label": "BREZINA",
+               "Total Grade of Execution": 8.2
+            },
+            {
+               "Starting Number": 10,
+               "Ranking": 10,
+               "Total Score": 130.04,
+               "Program Component Score": 73.06,
+               "Technical Element Score": 58.98,
+               "fullLabel": "Daniel SAMOHIN",
+               "Base Value": 62.5,
+               "label": "SAMOHIN",
+               "Total Grade of Execution": -3.52
+            }
+         ]
+      },
+      {
+         "key": "Troph\u00e9e de France",
+         "values": [
+            {
+               "Starting Number": 11,
+               "Ranking": 1,
+               "Total Score": 188.81,
+               "Program Component Score": 92.28,
+               "Technical Element Score": 97.53,
+               "fullLabel": "Javier FERNANDEZ",
+               "Base Value": 87.39,
+               "label": "FERNANDEZ",
+               "Total Grade of Execution": 10.14
+            },
+            {
+               "Starting Number": 6,
+               "Ranking": 2,
+               "Total Score": 182.28,
+               "Program Component Score": 87.64,
+               "Technical Element Score": 94.64,
+               "fullLabel": "Adam RIPPON",
+               "Base Value": 81.17,
+               "label": "RIPPON",
+               "Total Grade of Execution": 13.47
+            },
+            {
+               "Starting Number": 10,
+               "Ranking": 3,
+               "Total Score": 180.05,
+               "Program Component Score": 86.66,
+               "Technical Element Score": 93.39,
+               "fullLabel": "Denis TEN",
+               "Base Value": 79.08,
+               "label": "TEN",
+               "Total Grade of Execution": 14.31
+            },
+            {
+               "Starting Number": 9,
+               "Ranking": 4,
+               "Total Score": 171.95,
+               "Program Component Score": 79.36,
+               "Technical Element Score": 94.59,
+               "fullLabel": "Nathan CHEN",
+               "Base Value": 96.7,
+               "label": "CHEN",
+               "Total Grade of Execution": -2.11
+            },
+            {
+               "Starting Number": 7,
+               "Ranking": 5,
+               "Total Score": 170.04,
+               "Program Component Score": 81.2,
+               "Technical Element Score": 89.84,
+               "fullLabel": "Takahito MURA",
+               "Base Value": 82.28,
+               "label": "MURA",
+               "Total Grade of Execution": 7.56
+            },
+            {
+               "Starting Number": 5,
+               "Ranking": 6,
+               "Total Score": 156.57,
+               "Program Component Score": 79.94,
+               "Technical Element Score": 77.63,
+               "fullLabel": "Misha GE",
+               "Base Value": 74.3,
+               "label": "GE",
+               "Total Grade of Execution": 3.33
+            },
+            {
+               "Starting Number": 1,
+               "Ranking": 7,
+               "Total Score": 154.22,
+               "Program Component Score": 69.44,
+               "Technical Element Score": 84.78,
+               "fullLabel": "Artur DMITRIEV",
+               "Base Value": 80.52,
+               "label": "DMITRIEV",
+               "Total Grade of Execution": 4.26
+            },
+            {
+               "Starting Number": 8,
+               "Ranking": 8,
+               "Total Score": 150.13,
+               "Program Component Score": 78.0,
+               "Technical Element Score": 73.13,
+               "fullLabel": "Jorik HENDRICKX",
+               "Base Value": 69.82,
+               "label": "HENDRICKX",
+               "Total Grade of Execution": 3.31
+            },
+            {
+               "Starting Number": 3,
+               "Ranking": 9,
+               "Total Score": 148.02,
+               "Program Component Score": 72.36,
+               "Technical Element Score": 75.66,
+               "fullLabel": "Chafik BESSEGHIER",
+               "Base Value": 71.58,
+               "label": "BESSEGHIER",
+               "Total Grade of Execution": 4.08
+            },
+            {
+               "Starting Number": 4,
+               "Ranking": 10,
+               "Total Score": 128.73,
+               "Program Component Score": 70.2,
+               "Technical Element Score": 58.53,
+               "fullLabel": "Brendan KERRY",
+               "Base Value": 60.11,
+               "label": "KERRY",
+               "Total Grade of Execution": -1.58
+            },
+            {
+               "Starting Number": 2,
+               "Ranking": 11,
+               "Total Score": 117.39,
+               "Program Component Score": 71.58,
+               "Technical Element Score": 47.81,
+               "fullLabel": "Ivan RIGHINI",
+               "Base Value": 47.75,
+               "label": "RIGHINI",
+               "Total Grade of Execution": 0.06
+            }
+         ]
+      },
+      {
+         "key": "NHK Trophy",
+         "values": [
+            {
+               "Starting Number": 10,
+               "Ranking": 1,
+               "Total Score": 197.58,
+               "Program Component Score": 92.52,
+               "Technical Element Score": 106.06,
+               "fullLabel": "Yuzuru HANYU",
+               "Base Value": 94.13,
+               "label": "HANYU",
+               "Total Grade of Execution": 11.93
+            },
+            {
+               "Starting Number": 11,
+               "Ranking": 2,
+               "Total Score": 180.97,
+               "Program Component Score": 84.06,
+               "Technical Element Score": 97.91,
+               "fullLabel": "Nathan CHEN",
+               "Base Value": 100.25,
+               "label": "CHEN",
+               "Total Grade of Execution": -2.34
+            },
+            {
+               "Starting Number": 9,
+               "Ranking": 3,
+               "Total Score": 167.95,
+               "Program Component Score": 80.16,
+               "Technical Element Score": 87.79,
+               "fullLabel": "Keiji TANAKA",
+               "Base Value": 85.07,
+               "label": "TANAKA",
+               "Total Grade of Execution": 2.72
+            },
+            {
+               "Starting Number": 5,
+               "Ranking": 4,
+               "Total Score": 154.74,
+               "Program Component Score": 76.48,
+               "Technical Element Score": 78.26,
+               "fullLabel": "Alexei BYCHENKO",
+               "Base Value": 74.78,
+               "label": "BYCHENKO",
+               "Total Grade of Execution": 3.48
+            },
+            {
+               "Starting Number": 2,
+               "Ranking": 5,
+               "Total Score": 153.23,
+               "Program Component Score": 74.14,
+               "Technical Element Score": 79.09,
+               "fullLabel": "Deniss VASILJEVS",
+               "Base Value": 74.14,
+               "label": "VASILJEVS",
+               "Total Grade of Execution": 4.95
+            },
+            {
+               "Starting Number": 6,
+               "Ranking": 6,
+               "Total Score": 147.51,
+               "Program Component Score": 81.52,
+               "Technical Element Score": 67.99,
+               "fullLabel": "Mikhail KOLYADA",
+               "Base Value": 71.43,
+               "label": "KOLYADA",
+               "Total Grade of Execution": -3.44
+            },
+            {
+               "Starting Number": 3,
+               "Ranking": 7,
+               "Total Score": 144.14,
+               "Program Component Score": 82.7,
+               "Technical Element Score": 62.44,
+               "fullLabel": "Jason BROWN",
+               "Base Value": 64.59,
+               "label": "BROWN",
+               "Total Grade of Execution": -2.15
+            },
+            {
+               "Starting Number": 8,
+               "Ranking": 8,
+               "Total Score": 137.1,
+               "Program Component Score": 73.7,
+               "Technical Element Score": 64.4,
+               "fullLabel": "Nam NGUYEN",
+               "Base Value": 67.82,
+               "label": "NGUYEN",
+               "Total Grade of Execution": -3.42
+            },
+            {
+               "Starting Number": 4,
+               "Ranking": 9,
+               "Total Score": 134.65,
+               "Program Component Score": 69.28,
+               "Technical Element Score": 66.37,
+               "fullLabel": "Ryuju HINO",
+               "Base Value": 66.6,
+               "label": "HINO",
+               "Total Grade of Execution": -0.23
+            },
+            {
+               "Starting Number": 1,
+               "Ranking": 10,
+               "Total Score": 123.09,
+               "Program Component Score": 70.02,
+               "Technical Element Score": 54.07,
+               "fullLabel": "Grant HOCHSTEIN",
+               "Base Value": 61.99,
+               "label": "HOCHSTEIN",
+               "Total Grade of Execution": -7.92
+            },
+            {
+               "Starting Number": 7,
+               "Ranking": 11,
+               "Total Score": 119.03,
+               "Program Component Score": 74.14,
+               "Technical Element Score": 45.89,
+               "fullLabel": "Elladj BALDE",
+               "Base Value": 50.3,
+               "label": "BALDE",
+               "Total Grade of Execution": -4.41
+            }
+         ]
+      },
+      {
+         "key": "Rostelecom Cup",
+         "values": [
+            {
+               "Starting Number": 12,
+               "Ranking": 1,
+               "Total Score": 201.43,
+               "Program Component Score": 95.7,
+               "Technical Element Score": 105.73,
+               "fullLabel": "Javier FERNANDEZ",
+               "Base Value": 90.53,
+               "label": "FERNANDEZ",
+               "Total Grade of Execution": 15.2
+            },
+            {
+               "Starting Number": 11,
+               "Ranking": 2,
+               "Total Score": 186.48,
+               "Program Component Score": 91.36,
+               "Technical Element Score": 96.12,
+               "fullLabel": "Shoma UNO",
+               "Base Value": 87.25,
+               "label": "UNO",
+               "Total Grade of Execution": 8.87
+            },
+            {
+               "Starting Number": 8,
+               "Ranking": 3,
+               "Total Score": 168.71,
+               "Program Component Score": 80.14,
+               "Technical Element Score": 88.57,
+               "fullLabel": "Alexei BYCHENKO",
+               "Base Value": 80.98,
+               "label": "BYCHENKO",
+               "Total Grade of Execution": 7.59
+            },
+            {
+               "Starting Number": 6,
+               "Ranking": 4,
+               "Total Score": 161.94,
+               "Program Component Score": 76.76,
+               "Technical Element Score": 85.18,
+               "fullLabel": "Max AARON",
+               "Base Value": 80.1,
+               "label": "AARON",
+               "Total Grade of Execution": 5.08
+            },
+            {
+               "Starting Number": 2,
+               "Ranking": 5,
+               "Total Score": 155.78,
+               "Program Component Score": 72.64,
+               "Technical Element Score": 83.14,
+               "fullLabel": "Keiji TANAKA",
+               "Base Value": 79.76,
+               "label": "TANAKA",
+               "Total Grade of Execution": 3.38
+            },
+            {
+               "Starting Number": 10,
+               "Ranking": 6,
+               "Total Score": 155.02,
+               "Program Component Score": 83.98,
+               "Technical Element Score": 72.04,
+               "fullLabel": "Mikhail KOLYADA",
+               "Base Value": 66.22,
+               "label": "KOLYADA",
+               "Total Grade of Execution": 5.82
+            },
+            {
+               "Starting Number": 5,
+               "Ranking": 7,
+               "Total Score": 150.14,
+               "Program Component Score": 73.44,
+               "Technical Element Score": 76.7,
+               "fullLabel": "Gordei GORSHKOV",
+               "Base Value": 71.36,
+               "label": "GORSHKOV",
+               "Total Grade of Execution": 5.34
+            },
+            {
+               "Starting Number": 7,
+               "Ranking": 8,
+               "Total Score": 149.09,
+               "Program Component Score": 77.42,
+               "Technical Element Score": 71.67,
+               "fullLabel": "Elladj BALDE",
+               "Base Value": 68.76,
+               "label": "BALDE",
+               "Total Grade of Execution": 2.91
+            },
+            {
+               "Starting Number": 4,
+               "Ranking": 9,
+               "Total Score": 145.46,
+               "Program Component Score": 71.3,
+               "Technical Element Score": 75.16,
+               "fullLabel": "Artur DMITRIEV",
+               "Base Value": 78.58,
+               "label": "DMITRIEV",
+               "Total Grade of Execution": -3.42
+            },
+            {
+               "Starting Number": 9,
+               "Ranking": 10,
+               "Total Score": 143.3,
+               "Program Component Score": 73.14,
+               "Technical Element Score": 70.16,
+               "fullLabel": "Chafik BESSEGHIER",
+               "Base Value": 70.54,
+               "label": "BESSEGHIER",
+               "Total Grade of Execution": -0.38
+            },
+            {
+               "Starting Number": 3,
+               "Ranking": 11,
+               "Total Score": 141.37,
+               "Program Component Score": 72.72,
+               "Technical Element Score": 68.65,
+               "fullLabel": "Deniss VASILJEVS",
+               "Base Value": 63.79,
+               "label": "VASILJEVS",
+               "Total Grade of Execution": 4.86
+            },
+            {
+               "Starting Number": 1,
+               "Ranking": 12,
+               "Total Score": 124.34,
+               "Program Component Score": 64.56,
+               "Technical Element Score": 60.78,
+               "fullLabel": "Alexander MAJOROV",
+               "Base Value": 65.75,
+               "label": "MAJOROV",
+               "Total Grade of Execution": -4.97
+            }
+         ]
+      },
+      {
+         "key": "Skate America",
+         "values": [
+            {
+               "Starting Number": 9,
+               "Ranking": 1,
+               "Total Score": 190.19,
+               "Program Component Score": 91.08,
+               "Technical Element Score": 100.11,
+               "fullLabel": "Shoma UNO",
+               "Base Value": 87.97,
+               "label": "UNO",
+               "Total Grade of Execution": 12.14
+            },
+            {
+               "Starting Number": 10,
+               "Ranking": 2,
+               "Total Score": 182.63,
+               "Program Component Score": 90.02,
+               "Technical Element Score": 92.61,
+               "fullLabel": "Jason BROWN",
+               "Base Value": 81.14,
+               "label": "BROWN",
+               "Total Grade of Execution": 11.47
+            },
+            {
+               "Starting Number": 8,
+               "Ranking": 3,
+               "Total Score": 174.11,
+               "Program Component Score": 85.86,
+               "Technical Element Score": 89.25,
+               "fullLabel": "Adam RIPPON",
+               "Base Value": 81.75,
+               "label": "RIPPON",
+               "Total Grade of Execution": 7.5
+            },
+            {
+               "Starting Number": 5,
+               "Ranking": 4,
+               "Total Score": 172.15,
+               "Program Component Score": 78.0,
+               "Technical Element Score": 95.15,
+               "fullLabel": "Boyang JIN",
+               "Base Value": 99.07,
+               "label": "JIN",
+               "Total Grade of Execution": -3.92
+            },
+            {
+               "Starting Number": 7,
+               "Ranking": 5,
+               "Total Score": 166.6,
+               "Program Component Score": 80.6,
+               "Technical Element Score": 86.0,
+               "fullLabel": "Sergei VORONOV",
+               "Base Value": 75.52,
+               "label": "VORONOV",
+               "Total Grade of Execution": 10.48
+            },
+            {
+               "Starting Number": 1,
+               "Ranking": 6,
+               "Total Score": 163.32,
+               "Program Component Score": 75.92,
+               "Technical Element Score": 88.4,
+               "fullLabel": "Maxim KOVTUN",
+               "Base Value": 84.98,
+               "label": "KOVTUN",
+               "Total Grade of Execution": 3.42
+            },
+            {
+               "Starting Number": 6,
+               "Ranking": 7,
+               "Total Score": 159.64,
+               "Program Component Score": 76.94,
+               "Technical Element Score": 82.7,
+               "fullLabel": "Nam NGUYEN",
+               "Base Value": 80.36,
+               "label": "NGUYEN",
+               "Total Grade of Execution": 2.34
+            },
+            {
+               "Starting Number": 3,
+               "Ranking": 8,
+               "Total Score": 148.94,
+               "Program Component Score": 74.7,
+               "Technical Element Score": 74.24,
+               "fullLabel": "Timothy DOLENSKY",
+               "Base Value": 68.84,
+               "label": "DOLENSKY",
+               "Total Grade of Execution": 5.4
+            },
+            {
+               "Starting Number": 4,
+               "Ranking": 9,
+               "Total Score": 148.29,
+               "Program Component Score": 75.72,
+               "Technical Element Score": 72.57,
+               "fullLabel": "Jorik HENDRICKX",
+               "Base Value": 72.13,
+               "label": "HENDRICKX",
+               "Total Grade of Execution": 0.44
+            },
+            {
+               "Starting Number": 2,
+               "Ranking": 10,
+               "Total Score": 140.14,
+               "Program Component Score": 71.98,
+               "Technical Element Score": 70.16,
+               "fullLabel": "Brendan KERRY",
+               "Base Value": 72.19,
+               "label": "KERRY",
+               "Total Grade of Execution": -2.03
+            }
+         ]
+      }
+   ],
+   "visualisation_keys": [
+      "Technical Element Score",
+      "Program Component Score",
+      "Total Score",
+      "Ranking",
+      "Base Value",
+      "Total Grade of Execution",
+      "Starting Number"
+   ]
+}

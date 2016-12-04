@@ -1,0 +1,93 @@
+<div ng-app="viz" ng-controller="MainCtrl"> 
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.3.9/angular.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.3/nv.d3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-nvd3/1.0.9/angular-nvd3.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nvd3/1.8.3/nv.d3.min.css"/>
+  <center>
+    X-axis : <select ng-model="xKey" ng-options="x for x in availableKeys"></select>
+    Y-axis : <select ng-model="yKey" ng-options="x for x in availableKeys"></select>
+  </center>
+  
+  <nvd3 options="options" data="data"></nvd3>
+  
+
+  <script >
+    var app = angular.module('viz', ['nvd3']);
+
+    app.controller('MainCtrl', function($scope, $http) {
+      $scope.availableKeys = [];
+      $http.get(location.origin+'/uploads/fs_analysis_data/MEN_FS_2016.json')
+      .then(function(res){
+        console.log(res);
+        $scope.data = res.data.data;
+        $scope.availableKeys = res.data.visualisation_keys; 
+        $scope.xKey = $scope.availableKeys[0];
+        $scope.yKey = $scope.availableKeys[1];               
+      });
+
+      $scope.options = {
+        chart: {
+          type: 'scatterChart',
+          height: 650,
+          color: d3.scale.category10().range(),
+          scatter: {
+            onlyCircles: false
+          },
+          showDistX: true,
+          showDistY: true,
+                //tooltips: true,
+                //tooltip: {
+                /*contentGenerator: function (d) { 
+                  console.log(d)
+                    return '<h3>'+d.point.fullLabel+'</h3>';
+                  }
+                },*/
+                duration: 350,
+                xAxis: {
+                  axisLabel: '',
+                  tickFormat: function(d){
+                    return d3.format('.02f')(d);
+                  }
+                },
+                yAxis: {
+                  axisLabel: '',
+                  tickFormat: function(d){
+                    return d3.format('.02f')(d);
+                  },
+                    //axisLabelDistance: +5
+                  },
+                  zoom: {
+                    //NOTE: All attributes below are optional
+                    enabled: true,
+                    scaleExtent: [1, 4],
+                    useFixedDomain: false,
+                    useNiceScale: false,
+                    horizontalOff: false,
+                    verticalOff: false,
+                    unzoomEventType: 'dblclick.zoom'
+                  },
+                  showLabels: true,
+                  //pointDomain: [10,10], //any interval
+                  pointRange: [150, 150]
+                },
+                title: {
+                  enable: true,
+                  text: "Grand Prix 2016, Men Free Skate"
+                }
+
+              };
+
+              function updateGraph() {
+                $scope.options.chart.xAxis.axisLabel = $scope.xKey;
+                $scope.options.chart.scatter.x = function(d) {return d[$scope.xKey] };
+                $scope.options.chart.yAxis.axisLabel = $scope.yKey;
+                $scope.options.chart.scatter.y = function(d) {return d[$scope.yKey] };
+              };
+
+              $scope.$watch('xKey', updateGraph);
+              $scope.$watch('yKey', updateGraph);
+            });
+
+          </script> 
+        </div>

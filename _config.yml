@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I discover along the process or anything else...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SeguinBe
+twitter_username: Seguin_Be
 github_username:  SeguinBe
 google_analytics: UA-87689861-1
 
