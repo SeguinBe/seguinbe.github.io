@@ -95,8 +95,11 @@ Which formalism to use in order to characterize the links is still the most obsc
 ### Separate the project in sub-parts
 
 In order to simplify the organization of the project, I decided to separate the projects in three parts :
+
 - **Replica-core** will contains most of the project logic in terms of representation of the information and its modification. It will only be accessible via a REST API.
+
 - **Replica-search** will only contains the image search and analysis capabilities. Even if _Replica-core_ will depends on it, it could technically be independent.
+
 - **Replica-webapp** will be the front-end of the project, probably still in Angular and only interfacing with _Replica-core_ through the REST API.
 
 Also, along the course of this rewriting, I will probably **publish the mature parts on github.**
