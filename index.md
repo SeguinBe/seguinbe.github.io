@@ -16,4 +16,4 @@ I have not updated the progresses of the project recently, but I will start post
 
 - Invited talk **[Les Lundis Numériques de l'INHA](https://www.inha.fr/fr/agenda/parcourir-par-annee/en-2018/janvier-2018-1/lundisnum-2018-projet-replica.html)** 8th of January 2018, Paris ([YouTube vidéo, in French](https://www.youtube.com/watch?v=JxFMEAokjTM))
 - Invited talk **[INSIGHT Launch Event](http://uahost.uantwerpen.be/platformdh/index.php/event/insight-launch-event-ai-and-the-linking-of-digital-heritage-data/)** 9th of November 2017, Brussels
-- **[DH2017](https://dh2018.adho.org/en/)** June 2017, Montréal. Gave the [hands-on sessions](https://github.com/SeguinBe/DHWorkshop2017) for the "Computer Vision and Digital Humanities Workshop" (also presented a paper there).
+- **[DH2017](https://dh2018.adho.org/en/)** June 2017, Montréal. Gave the hands-on sessions ([code+slides](https://github.com/SeguinBe/DHWorkshop2017)) for the "Computer Vision and Digital Humanities Workshop", also presented a paper at the main conference.
