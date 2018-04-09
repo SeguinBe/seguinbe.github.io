@@ -13,6 +13,3 @@ google_analytics: UA-87689861-1
 
 # Build settings
 theme: minima
-exclude:
-  - Gemfile
-  - Gemfile.lock
