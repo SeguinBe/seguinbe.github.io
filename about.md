@@ -8,4 +8,4 @@ My name is Benoit Seguin and I am a PhD student at the [Digital Humanities Labor
 
 My thesis is based on the [Replica Project](http://dhlab.epfl.ch/page-128334-en.html) where I use machine learning and modern image searching algorithm to help Art Historians navigate very large iconographic collections.
 
-I received a _Master of Science_ from [EPFL](http://epfl.ch/) and a _Diplôme d'Ingénieur_ from [École Polytechnique](http://www.polytechnique.edu/). My complete resume can be found [here](https://www.dropbox.com/s/zdwwo5a2uejrigl/Resume.pdf?dl=0).
+I received a _Master of Science_ from [EPFL](http://epfl.ch/) and a _Diplôme d'Ingénieur_ from [École Polytechnique](http://www.polytechnique.edu/). My complete resume can be found [here]({{ site.baseurl }}/uploads/Resume.pdf).
