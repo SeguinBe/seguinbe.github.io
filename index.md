@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Greetings! [I am a PhD student](about) mostly working on the [Replica Project](http://dhlab.epfl.ch/page-128334-en.html), but I also try to write about other things.
+Greetings! [I am a PhD student](/about/) mostly working on the [Replica Project](http://dhlab.epfl.ch/page-128334-en.html), but I also try to write about other things.
 
 I have not updated the progresses of the project recently, but I will start posting again soon, I hope.
 
