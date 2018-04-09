@@ -2,9 +2,7 @@
 title: Benoit Seguin, PhD Student
 email: benoit.seguin@epfl.ch
 description: > # this means to ignore newlines until "baseurl:"
-  My personal webpage where I share what I consider worth sharing. Mainly stories about the Replica project
-  from the DHLAB, EPFL. Can be about my current research, python tips, web standards
-  I discover along the process or anything else...
+  Personal website of Benoit Seguin, PhD Student at DHLAB, EPFL
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Seguin_Be
