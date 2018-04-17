@@ -18,6 +18,8 @@ By default, the PCS/TES plot is a way to see the more artistic skaters (like Kol
 
 Another interesting combination is Base-Value/TES, it shows how some skaters go for difficult elements and how some others get more out of their jumps with high GoE.
 
+{% include FS_viz.html %}
+
 The complete extraction for the Men Grand Prix Events of 2016 is available [here](https://dl.dropboxusercontent.com/u/14341018/GP_2016_Men.zip)
 
 The rest of this post is more for people interested in how this was created.
