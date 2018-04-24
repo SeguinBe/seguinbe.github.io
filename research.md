@@ -6,10 +6,17 @@ title: Research
 
 Some relevant publications which were done during the course of my PhD relating to the Replica project.
 
+#### **[The Replica Project: Building a visual search engine for art historians](https://dl.acm.org/authorize?N658957)**
+##### *B. Seguin*, XRDS: Crossroads, The ACM Magazine for Students - Computers and Art, 2018
+
+Invited journal article describing the high level ideas behind the Replica project.
+
+![Thumbnail]({{ site.baseurl }}/uploads/publications/XRDS_thumbnail.png){: .align-center width="60%"}
+
 #### **[Visual Link Retrieval in a Database of Paintings](https://infoscience.epfl.ch/record/223771)** 
 ##### *B. Seguin, C. Striolo, I. diLenardo, F. Kaplan*, ECCV Visart Workshop 2016
 
-Describes the basis of the learning of the visual similarities for the Replica search engine.
+Technical paper which forms the basis of the learning of the visual similarities for the Replica search engine.
 
 ![Thumbnail]({{ site.baseurl }}/uploads/publications/Visart_thumbnail.png){: .align-center width="70%"}
 
@@ -35,7 +42,8 @@ Finding visual connections between artworks is difficult because it relies on th
 
 ![Thumbnail]({{ site.baseurl }}/uploads/publications/interface_thumbnail.png){: .align-center width="60%"}
 
-
+<!-- ACM DL Article: The Replica Project: Building a visual search engine for art historians
+<div class="acmdlitem" id="item3186653"><img src="//dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="https://dl.acm.org/authorize?N658957" title="The Replica Project: Building a visual search engine for art historians">The Replica Project: Building a visual search engine for art historians</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=99659256875" >Benoit Seguin</a><br />XRDS: Crossroads, The ACM Magazine for Students - Computers and Art, 2018</div></div> -->
 
 ----
 

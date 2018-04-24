@@ -6,6 +6,8 @@ Greetings! [I am a PhD student]({{ site.baseurl }}{% link about.md %}) mostly wo
 
 I have not updated the progresses of the project recently, but I will start posting again soon, I hope.
 
+Some of my publications are linked directly on the [research page]({{ site.baseurl }}{% link research.md %}).
+
 ## Future Events I am attending
 
 - **[DH2018](https://dh2018.adho.org/en/)** 26th-29th of June, Mexico
