@@ -3,8 +3,16 @@ layout: page
 title: Research
 ---
 
+# PhD Thesis
 
-Some relevant publications which were done during the course of my PhD relating to the Replica project.
+#### **[Making large art historical photo archives searchable](https://infoscience.epfl.ch/record/261212)** 
+##### *B. Seguin*, PhD Thesis, 2018
+
+![Thumbnail]({{ site.baseurl }}/uploads/publications/thesis_thumbnail.png){: .align-center width="80%"}
+
+----
+
+# Publications related to the Replica Project
 
 #### **[The Replica Project: Building a visual search engine for art historians](https://dl.acm.org/authorize?N658957)**
 ##### *B. Seguin*, XRDS: Crossroads, The ACM Magazine for Students - Computers and Art, 2018
@@ -46,6 +54,8 @@ Finding visual connections between artworks is difficult because it relies on th
 <div class="acmdlitem" id="item3186653"><img src="//dl.acm.org/images/oa.gif" width="25" height="25" border="0" alt="ACM DL Author-ize service" style="vertical-align:middle"/><a href="https://dl.acm.org/authorize?N658957" title="The Replica Project: Building a visual search engine for art historians">The Replica Project: Building a visual search engine for art historians</a><div style="margin-left:25px"><a href="http://dl.acm.org/author_page.cfm?id=99659256875" >Benoit Seguin</a><br />XRDS: Crossroads, The ACM Magazine for Students - Computers and Art, 2018</div></div> -->
 
 ----
+
+# Other work
 
 This is an unrelated work with my main project that came out of a fun and intense collaboration with two friends on applying deep-reinforcement-learning to logic optimization.
 

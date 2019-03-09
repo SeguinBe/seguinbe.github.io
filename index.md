@@ -4,16 +4,15 @@ layout: home
 
 Greetings! [I am a PhD student]({{ site.baseurl }}{% link about.md %}) mostly working on the [Replica Project](http://dhlab.epfl.ch/page-128334-en.html), but I also try to write about other things.
 
+I successfully [defended my PhD thesis](https://actu.epfl.ch/news/congrats-to-dr-benoit-seguin-2/) at the end of last year.
+
 I have not updated the progresses of the project recently, but I will start posting again soon, I hope.
 
 Some of my publications are linked directly on the [research page]({{ site.baseurl }}{% link research.md %}).
 
-## Future Events I am attending
-
-- **[DH2018](https://dh2018.adho.org/en/)** 26th-29th of June, Mexico
-
 ## Selected Past Events
 
+- **[DH2018](https://dh2018.adho.org/en/)** 26th-29th of June, Mexico
 - **[Archiving 2018](http://www.imaging.org/site/IST/Conferences/Archiving/IST/Conferences/Archiving/Archiving_Home.aspx)** 18th of April 2018, Washington
 - **[Searching Through Seeing: Optimizing Computer Vision Technology for the Arts](https://www.frick.org/research/upcoming_symposia)** 12th-13th of April 2018, Frick Collection, NYC
 - Invited talk **[Les Lundis Numériques de l'INHA](https://www.inha.fr/fr/agenda/parcourir-par-annee/en-2018/janvier-2018-1/lundisnum-2018-projet-replica.html)** 8th of January 2018, Paris ([YouTube vidéo, in French](https://www.youtube.com/watch?v=JxFMEAokjTM))
