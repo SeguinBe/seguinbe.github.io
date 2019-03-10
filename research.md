@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Research
+permalink: /research/
+order: 2
 ---
 
 # PhD Thesis
@@ -12,7 +14,7 @@ title: Research
 
 ----
 
-# Publications related to the Replica Project
+# Selected publications related to my PhD Project
 
 #### **[The Replica Project: Building a visual search engine for art historians](https://dl.acm.org/authorize?N658957)**
 ##### *B. Seguin*, XRDS: Crossroads, The ACM Magazine for Students - Computers and Art, 2018
@@ -36,7 +38,7 @@ Describes the processing pipeline used for the digitization and automatic proces
 ![Thumbnail]({{ site.baseurl }}/uploads/publications/Archiving_thumbnail.png){: .align-center width="70%"}
 
 #### **[dhSegment: A generic deep-learning approach for document segmentation](https://arxiv.org/abs/1804.10371)**
-##### *B. Seguin\*, S. Oliveira\*, F. Kaplan*, Under review ([website+code](https://dhlab-epfl.github.io/dhSegment/))
+##### *B. Seguin\*, S. Oliveira\*, F. Kaplan*, Frontiers in Handwriting Recognition (ICFHR) 2018 ([website+code](https://dhlab-epfl.github.io/dhSegment/))
 
 How the deep-learning approach we used originally for the processing of the Cini collection was generalized to many other cases of document processing for the Venice Time Machine.
 
