@@ -16,10 +16,11 @@ Feel free to contact me if you feel I could bring value to your project!
 
 ## Future Event
 
-- Invited talk **A Digital Approach to Visual Semantics** 14th of June, *École Normale Supérieure*, Paris
+- **Workshop: Photo Archives and Computer Vision** 9-10th of January 2020, *Getty Research Institute*, Los Angeles
 
 ## Past Events I attended
 
+- Invited talk **A Digital Approach to Visual Semantics** 14th of June 2019, *École Normale Supérieure*, Paris
 - **[DH2018](https://dh2018.adho.org/en/)** 26th-29th of June 2018, Mexico
 - **[Archiving 2018](http://www.imaging.org/site/IST/Conferences/Archiving/IST/Conferences/Archiving/Archiving_Home.aspx)** 18th of April 2018, Washington
 - **[Searching Through Seeing: Optimizing Computer Vision Technology for the Arts](https://www.frick.org/research/upcoming_symposia)** 12th-13th of April 2018, Frick Collection, NYC
