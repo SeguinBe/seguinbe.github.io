@@ -16,6 +16,7 @@ Feel free to contact me if you feel I could bring value to your project!
 
 ## Future Event
 
+- **International Symposium: The genealogy of forms from the perspective of Deep Learning** 7-8th of November 2019, *Université de Liège*
 - **Workshop: Photo Archives and Computer Vision** 9-10th of January 2020, *Getty Research Institute*, Los Angeles
 
 ## Past Events I attended
