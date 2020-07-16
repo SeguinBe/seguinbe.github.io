@@ -14,13 +14,10 @@ Some of my publications are linked directly on the [research page]({{ site.baseu
 
 Feel free to contact me if you feel I could bring value to your project!
 
-## Future Event
-
-- **International Symposium: The genealogy of forms from the perspective of Deep Learning** 7-8th of November 2019, *Université de Liège*
-- **Workshop: Photo Archives and Computer Vision** 9-10th of January 2020, *Getty Research Institute*, Los Angeles
-
 ## Past Events I attended
 
+- **Workshop: Photo Archives and Computer Vision** 9-10th of January 2020, *Getty Research Institute*, Los Angeles
+- **International Symposium: The genealogy of forms from the perspective of Deep Learning** 7-8th of November 2019, *Université de Liège*
 - Invited talk **A Digital Approach to Visual Semantics** 14th of June 2019, *École Normale Supérieure*, Paris
 - **[DH2018](https://dh2018.adho.org/en/)** 26th-29th of June 2018, Mexico
 - **[Archiving 2018](http://www.imaging.org/site/IST/Conferences/Archiving/IST/Conferences/Archiving/Archiving_Home.aspx)** 18th of April 2018, Washington
