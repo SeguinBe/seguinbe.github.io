@@ -14,7 +14,7 @@ Examples of visual links
 
 In order to analyze this problem, we created a complete framework. We needed to acquire labelled data, but navigating a collection of images to make links between them is definitely outside of the scope of Amazon Mechanical Turk. So I developped our own web-application (using Angular), linking it with our servers (powered by Python). 
 
-<figure>    
+<figure>
 <video width="100%" height="100%" controls autoplay>
   <source src="{{ site.baseurl }}/uploads/replica/interface-example.mp4" type="video/mp4">
 Your browser does not support the video tag.

@@ -9,5 +9,15 @@ twitter_username: Seguin_Be
 github_username:  SeguinBe
 google_analytics: UA-87689861-1
 
+collections:
+  projects:
+    order:
+      - e-rara_tr.md
+      - impresso2.md
+      - artlab.md
+      - impresso1.md
+      - thesis.md
+    output: True
+
 # Build settings
 theme: minima
