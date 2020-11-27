@@ -12,7 +12,7 @@ google_analytics: UA-87689861-1
 collections:
   projects:
     order:
-      - e-rara_tr.md
+      - e-rara-text-reuse.md
       - impresso2.md
       - artlab.md
       - impresso1.md
