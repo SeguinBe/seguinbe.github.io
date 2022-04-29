@@ -8,7 +8,7 @@ I am an Independent Consultant specialized in the applications of Machine Learni
 
 While being rather polyvalent and actually coming from a theoritical background, I have a specific expertise with applying technology to large data coming from the Cultural Heritage domain.
 
-I successfully [defended my PhD thesis](https://actu.epfl.ch/news/congrats-to-dr-benoit-seguin-2/) at the end of 2018. During these few years, I got the opportunity to be involved with (and often directly be responsible of) every step of a successful Digital Humanities project, from the raw scanned documents to the interaction with the end users, directly designing state-of-the-art Machine Learning based algorithms to enrich the Terabytes of initial data, or prototyping novel navigation methods ([fancy demo here](/projects/thesis.html))
+I successfully defended my PhD thesis at the end of 2018. During these few years, I got the opportunity to be involved with (and often directly be responsible of) every step of a successful Digital Humanities project, from the raw scanned documents to the interaction with the end users, directly designing state-of-the-art Machine Learning based algorithms to enrich the Terabytes of initial data, or prototyping novel navigation methods ([fancy demo here](/projects/thesis.html))
 
 Since then, I have been working on [multiple projects]({% link projects.md %}) applying my technical expertise to make the visions of Digital Humanists become reality.
 
