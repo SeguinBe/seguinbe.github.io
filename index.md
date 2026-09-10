@@ -4,9 +4,9 @@ layout: home
 
 <section id="about">
   <div class="bio-header">
-    <img class="bio-photo" src="{{ site.baseurl }}/uploads/profile_picture2_corrected.jpg" alt="Benoit Seguin, PhD">
+    <img class="bio-photo" src="{{ site.baseurl }}/uploads/profile_picture2_corrected.jpg" alt="Benoit Seguin">
     <div class="bio-details">
-      <h1 style="font-size: 1.75rem; margin: 0 0 4px 0;">Benoit Seguin, PhD</h1>
+      <h1 style="font-size: 1.75rem; margin: 0 0 4px 0;">Benoit Seguin</h1>
       <div class="bio-role">Staff Software Engineer at Google</div>
       <div class="bio-location">Tokyo, Japan (relocating to Zurich in December)</div>
       <div class="bio-links">
@@ -19,7 +19,7 @@ layout: home
   </div>
 
   <p class="bio-intro">
-    I am a Staff Software Engineer at Google, where I co-lead <a href="#projects">Simula</a>, Google's core synthetic data framework. Recently, I’ve focused on building agentic, self-improving pipelines for data and RL environment synthesis. I specialize in conceptualizing and engineering the composable abstractions that turn frontier research ideas into robust, high-performance systems at scale.
+    I am a Staff Software Engineer at Google, where I co-lead Simula, Google's core synthetic data framework. Recently, I’ve focused on building agentic, self-improving pipelines for data and RL environment synthesis. I specialize in conceptualizing and engineering the composable abstractions that turn frontier research ideas into robust, high-performance systems at scale.
   </p>
 </section>
 
