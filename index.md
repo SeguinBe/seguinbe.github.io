@@ -10,16 +10,16 @@ layout: home
       <div class="bio-role">Staff Software Engineer at Google</div>
       <div class="bio-location">Tokyo, Japan (relocating to Zurich in December)</div>
       <div class="bio-links">
-        <a href="https://www.linkedin.com/in/benoit-seguin-04a04828" target="_blank" rel="noopener">LinkedIn</a> &bull;
-        <a href="https://scholar.google.com/citations?user=-jJ4MXIAAAAJ" target="_blank" rel="noopener">Google Scholar</a> &bull;
-        <a href="mailto:contact@benoitseguin.net">Email</a> &bull;
-        <a href="https://x.com/Seguin_Be" target="_blank" rel="noopener">X / Twitter</a>
+        <a class="bio-badge" href="https://www.linkedin.com/in/benoit-seguin-04a04828" target="_blank" rel="noopener">LinkedIn</a>
+        <a class="bio-badge" href="https://scholar.google.com/citations?user=-jJ4MXIAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+        <a class="bio-badge" href="mailto:contact@benoitseguin.net">Email</a>
+        <a class="bio-badge" href="https://x.com/Seguin_Be" target="_blank" rel="noopener">X / Twitter</a>
       </div>
     </div>
   </div>
 
-  <p>
-    I am a Staff Software Engineer at Google, where I co-lead the core synthetic data framework (<strong>Simula</strong>). Recently, I’ve focused on building agentic, self-improving pipelines for data and RL environment synthesis. I specialize in conceptualizing and engineering the composable abstractions that turn frontier research ideas into robust, high-performance systems at scale.
+  <p class="bio-intro">
+    I am a Staff Software Engineer at Google, where I co-lead <a href="#projects">Simula</a>, Google's core synthetic data framework. Recently, I’ve focused on building agentic, self-improving pipelines for data and RL environment synthesis. I specialize in conceptualizing and engineering the composable abstractions that turn frontier research ideas into robust, high-performance systems at scale.
   </p>
 </section>
 
@@ -119,7 +119,7 @@ layout: home
   <h2>Career Experience</h2>
 
   <ul>
-    <li><strong>Google</strong> | Staff Software Engineer <em>(Sept 2022 &ndash; Present)</em><br>
+    <li><strong>Google</strong> | Staff Software Engineer <em>(2025 &ndash; Present)</em>, Senior Software Engineer <em>(Sept 2022 &ndash; 2025)</em><br>
     Co-founder &amp; Co-lead of Simula; Creator of Google's internal LLM Prompting &amp; Bulk Inference Engine; Architect of Leap AI; Core Tech Impact Award Winner; Top-2 Code Author (2024).</li>
     <li><strong>ArtBeat.ai</strong> | CTO &amp; Co-Founder <em>(Mar 2021 &ndash; Apr 2022)</em><br>
     Led engineering for an AI-driven art market valuation startup; architected multimodal valuation models and multi-source ETL pipelines.</li>
