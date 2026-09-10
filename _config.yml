@@ -2,11 +2,12 @@
 title: Benoit Seguin, PhD
 email: contact@benoitseguin.net
 description: > # this means to ignore newlines until "baseurl:"
-  Public website of Benoit Seguin, Specialized Consultant
+  Benoit Seguin, PhD — Staff Software Engineer at Google
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Seguin_Be
 github_username:  SeguinBe
+linkedin_username: benoit-seguin-04a04828
 google_analytics: UA-87689861-1
 
 collections:

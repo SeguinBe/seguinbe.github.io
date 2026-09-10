@@ -6,38 +6,168 @@ layout: default
 
   {{ content }}
 
-  <!--
-    <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  -->
-
 </div>
 
 <style>
-  p {
-    text-align: justify
+  html {
+    scroll-behavior: smooth;
   }
-  
-  figcaption p {
-    text-align: center
+
+  /* Offset anchor targets so headings aren't obscured */
+  h2[id], h3[id], section[id] {
+    scroll-margin-top: 70px;
   }
-  
-  .center-image
-  {
-      margin: 0 auto;
-      display: block;
+
+  .home h2 {
+    border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 6px;
+    margin-top: 2.2rem;
+    margin-bottom: 1.2rem;
+    font-size: 1.6rem;
   }
-  </style>
+
+  details.collapsible-section {
+    margin-top: 2.2rem;
+    margin-bottom: 1.2rem;
+    border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 14px;
+  }
+
+  details.collapsible-section summary {
+    cursor: pointer;
+    outline: none;
+    user-select: none;
+  }
+
+  details.collapsible-section summary h2 {
+    border-bottom: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  .home h3 {
+    margin-top: 1.6rem;
+    margin-bottom: 0.4rem;
+    font-size: 1.25rem;
+  }
+
+  .home h4 {
+    margin-top: 1rem;
+    margin-bottom: 0.3rem;
+    font-size: 1.05rem;
+  }
+
+  .bio-header {
+    display: flex;
+    flex-direction: row;
+    gap: 28px;
+    align-items: center;
+    margin-bottom: 1.8rem;
+  }
+
+  .bio-photo {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.12);
+    flex-shrink: 0;
+  }
+
+  .bio-details h1 {
+    font-size: 1.8rem;
+    margin: 0 0 4px 0;
+    line-height: 1.2;
+  }
+
+  .bio-details .bio-role {
+    font-size: 1.05rem;
+    font-weight: 500;
+    color: #2b2b2b;
+    margin: 0 0 4px 0;
+  }
+
+  .bio-details .bio-location {
+    font-size: 0.92rem;
+    color: #666;
+    margin: 0 0 10px 0;
+  }
+
+  .bio-links {
+    font-size: 0.92rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 14px;
+  }
+
+  .bio-links a {
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .bio-links a:hover {
+    text-decoration: underline;
+  }
+
+  .project-card {
+    background: #fafafa;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 24px;
+  }
+
+  .project-role {
+    color: #555;
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin-top: -2px;
+    margin-bottom: 12px;
+  }
+
+  .pub-item {
+    margin-bottom: 20px;
+  }
+
+  .pub-title {
+    font-weight: 600;
+    font-size: 1rem;
+    margin-bottom: 2px;
+  }
+
+  .pub-venue {
+    font-style: italic;
+    color: #555;
+    font-size: 0.92rem;
+    margin-bottom: 2px;
+  }
+
+  .pub-authors {
+    color: #444;
+    font-size: 0.92rem;
+    margin-bottom: 4px;
+  }
+
+  .pub-links {
+    font-size: 0.88rem;
+    margin-top: 4px;
+  }
+
+  @media (max-width: 600px) {
+    .bio-header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 16px;
+    }
+    .bio-photo {
+      width: 100px;
+      height: 100px;
+    }
+  }
+
+  .center-image {
+    margin: 0 auto;
+    display: block;
+  }
+</style>
